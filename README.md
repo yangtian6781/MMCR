@@ -6,7 +6,7 @@
 
 ## News 🚀🚀🚀
 
-- `03/24/2025`: 🔥 We have released the MLVU paper(https://arxiv.org/abs/2503.16856)
+- `03/24/2025`: 🔥 We have released the MLVU [Paper](https://arxiv.org/abs/2503.16856)
 
 
 ## Citation
