@@ -6,7 +6,7 @@
 
 ## News 🚀🚀🚀
 
-- `03/24/2025`: 🔥 We have released the MMCR [Paper](https://arxiv.org/abs/2503.16856) and [Data](https://huggingface.co/datasets/bbbeer/MMCR). We will submit a PR to VLMEvalKit as soon as possible, but prior to that, we will release our evaluation code.
+- `03/24/2025`: 🔥 We have released the MMCR [Paper](https://arxiv.org/abs/2503.16856) and [Data](https://huggingface.co/datasets/bbbeer/MMCR). We will submit a PR to [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) as soon as possible, but prior to that, we will release our evaluation code.
 
 
 ## Citation
