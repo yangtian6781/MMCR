@@ -32,3 +32,12 @@ torchrun --nproc-per-node=8 run.py --data MMCR --model InternVL2_5-1B --verbose
 ## Citation
 
 If you find this project useful in your research, please consider cite:
+
+```BibTeX
+@article{tian2025mmcr,
+  title={MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers},
+  author={Tian, Yang and Lu, Zheng and Gao, Mingqi and Liu, Zheng and Zhao, Bo},
+  journal={arXiv preprint arXiv:2503.16856},
+  year={2025}
+}
+```
