@@ -9,7 +9,7 @@
 - `06/26/2025`: 🔥 MMCR was accepted to ICCV 2025.
 - `04/01/2025`: 🔥 Our PR was merged to [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
 - `03/25/2025`: 🔥 We have released evaluation code. The PR to VLMEvalKit is coming soon.
-- `03/24/2025`: 🔥 We have released the MMCR [Paper](https://arxiv.org/abs/2503.16856) and [Data](https://huggingface.co/datasets/bbbeer/MMCR). We will submit a PR to VLMEvalKit as soon as possible, but prior to that, we will release our evaluation code.
+- `03/24/2025`: 🔥 We have released the MMCR [Paper](https://arxiv.org/abs/2503.16856) and [Data](https://huggingface.co/datasets/yangtian6781/MMCR). We will submit a PR to VLMEvalKit as soon as possible, but prior to that, we will release our evaluation code.
 
 # Quickstart
 ## Step 1. Installation
