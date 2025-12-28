@@ -105,7 +105,7 @@ class ImageMCQDataset(ImageBaseDataset):
         'MMBench_V11_MINI': 'https://opencompass.openxlab.space/utils/TEST/MMBench_V11_MINI.tsv',
         'MMStar_MINI': 'https://opencompass.openxlab.space/utils/TEST/MMStar_MINI.tsv',
         'AI2D_MINI': 'https://opencompass.openxlab.space/utils/TEST/AI2D_MINI.tsv',
-        "MMCR": "https://huggingface.co/datasets/bbbeer/MMCR/resolve/main/MMCR.tsv"
+        "MMCR": "https://huggingface.co/datasets/yangtian6781/MMCR/resolve/main/MMCR.tsv"
     }
 
     DATASET_MD5 = {
