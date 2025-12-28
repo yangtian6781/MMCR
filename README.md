@@ -1,7 +1,7 @@
 <div align="center">
 
 # MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers
-[**🤗 HF data**](https://huggingface.co/datasets/bbbeer/MMCR) [**📖 MMCR arXiv**](https://arxiv.org/abs/2503.16856) 
+[**🤗 HF data**](https://huggingface.co/datasets/yangtian6781/MMCR) [**📖 MMCR arXiv**](https://arxiv.org/abs/2503.16856) 
 </div>
 
 ## News 🚀🚀🚀
